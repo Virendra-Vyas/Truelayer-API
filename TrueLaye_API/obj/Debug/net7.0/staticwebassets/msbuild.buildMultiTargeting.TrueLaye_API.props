@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TrueLaye_API.props" />
+</Project>
